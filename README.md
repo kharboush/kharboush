@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-My name is Anton and I come from Bulgaria. I'm a designer by day and a developer by night.
+My name is Anton and I come from Bulgaria. I'm product designer, but I sometimes code in my spare time.
 
 Currently on the lookout for new projects to delve into.
 
